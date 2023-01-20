@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Esteban</h1>
-<h3 align="center">Learning all things client-side</h3>
+<h3 align="center">Frontend Developer</h3>
+
 
 - 🔭 I’m currently working on **developing my skillset**
-
 - 🌱 I’m currently learning **Typescript / Node.js**
-
 - 👨‍💻 All of my projects are available at (website coming soon!)
-
 - 🖥️ Frontend Mentor Challenges [https://www.frontendmentor.io/profile/estebanp2022](https://www.frontendmentor.io/profile/estebanp2022)
-
 - 📫 How to reach me **estepesantes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
