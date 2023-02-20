@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **developing my skillset**
 - 🌱 I’m currently learning **advanced React concepts, Bootstrap & Tailwind**
-- 👨‍💻 Portfolio https://estebanpesantes.netlify.app/
+- 👨‍💻 My website https://estebanpesantes.netlify.app/
 - 🖥️ Frontend Mentor Challenges [https://www.frontendmentor.io/profile/estebanp2022](https://www.frontendmentor.io/profile/estebanp2022)
 - 📫 How to reach me **estepesantes@gmail.com**
 
