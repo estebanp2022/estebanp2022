@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Esteban</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on **developing my skillset and looking into full stack web development**
-- 🌱 I’m currently learning **advanced React concepts, React Router v6, Bootstrap & Tailwind**
+- 🔭 I’m currently working on **developing my skillset**
+- 🌱 I’m currently learning **Backend Web Development, focusing on Java and SQL**
 - 👨‍💻 My website https://estebanpesantes.netlify.app/
 - 🖥️ Frontend Mentor Challenges [https://www.frontendmentor.io/profile/estebanp2022](https://www.frontendmentor.io/profile/estebanp2022)
 - 📫 How to reach me **estepesantes@gmail.com**
