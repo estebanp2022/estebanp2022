@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esteban</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">UX/UI | Frond-end Development</h3>
 
 - 🔭 I’m currently working on **developing my skillset**
 - 🌱 I’m currently learning **Interaction Design and tools such as Figma and Adobe Illustrator**
